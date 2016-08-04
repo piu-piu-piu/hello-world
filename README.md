@@ -1,2 +1,3 @@
 # hello-world
-my firart repository
+HI it me!
+my first repository
